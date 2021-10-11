@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <title>04的第一次伟大尝试</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="04">
+    <meta http-equiv="refresh" content="1">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div id="container" style="width:500px">
+
+        <div id="header" style="background-color:red;">
+            <h1 style="margin-bottom:0;text-align: center;">特大喜讯</h1>
+        </div>
+        <div id="body" style="display: flex;">
+            <div id="menu" style="background-color:#2100df;height:120px;width:100px;flex-shrink: 0;">
+                <b>好消息</b><br>
+                真的好消息<br>
+                现在不买<br>
+                就来不及了<br>
+                快快快，买他
+            </div>
+            <div id="content" style="background-color:#e100ff;height:120px;width:400px;flex-shrink: 0;flex:1;">
+                <p style="font-size: large;text-align: center;text-shadow: slateblue;">原价9999的程序部部长</p>
+                <p style="text-align: center;font-size: larger;">现如今仅需99.8即可带回家</p>
+            </div>
+        </div>
+            <div style="font-size: larger;background-color: springgreen;width: 500px;height: 30px;text-align: center;">
+            退可洗衣做饭
+            </div>
+            <div id="footer" style="background-color:#FFA500;text-align:center;width: 500px;">
+            进可嘿嘿嘿嘿
+            </div>
+        <div style="display: flex";>  
+            <div style="font-size: larger;background-color: rgb(255, 238, 0);text-align: left;width: 250px;">
+            充值一次即可获得永久使用权
+            </div>
+            <div style="font-size: larger;background-color: rgb(0, 238, 255);text-align: center;width: 250px;float: right;">
+            超乖巧超听话
+            </div>
+        </div>      
+        <div style="display: flex";> 
+            <div style="font-size: larger;background-color: rgb(38, 0, 255);text-align: center;width: 200px;">     
+            澳门XXXX签约
+            </div>
+            <div style="font-size: larger;background-color: rgb(72, 17, 80);text-align: center;width: 300px;">经过van♂老师指导</div>        
+        </div>
+        <div style="font-size:x-large;background-color: rgb(255, 38, 0);text-align: center;width: 500px;">
+        快来预定吧！预约电话：8208208820
+        </div>
+    </div>
+</body>
+
+</html>
